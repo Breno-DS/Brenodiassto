@@ -5,6 +5,11 @@
 
   ## Formação
 
+Programador/Desenvolvedor Front-End Senai/Ford em curso início 01/2024 à 07/2024.
+Técnico Enfermagem experiência Hospitalar, domiciliar e Estratégia Saúde da Família.
+Inglês Técnico em linguagem desenvolvimento da informação.
+
+
   ## Objetivo 
   
 Busco conhecimento e desenvolvimento e apromoramento nos processos da tecnologia. 
